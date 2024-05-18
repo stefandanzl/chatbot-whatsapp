@@ -45,6 +45,7 @@ Before we start coding, make sure you have the following installed on your machi
 - Go (version 1.15 or higher)
 - PostgreSQL (for storing session data)
 - Docker and Docker Compose
+
 You'll also need to install some Go packages. Run the following command to get the required packages:
 ```go
 go mod init whatsapp-chat-bot
