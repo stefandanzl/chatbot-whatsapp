@@ -244,3 +244,4 @@ Feel free to share your thoughts and improvements in the comments section below.
 Github
 https://github.com/galileoluna/chatbot-whatsapp
 #golang #codingtips 
+https://x.com/galileolunaio/status/1791565069286838558
