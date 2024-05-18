@@ -141,8 +141,10 @@ func GetEventHandler(client *whatsmeow.Client) func(interface{}) {
 This function will print the received message to the console and send a response back to the sender.
 # 5. Running the Bot
 To run the bot locally, execute the following command in your terminal:
+
+go run main.go
 `go run main.go`
-`go run main.go`
+
 If this is the first time you're running the bot, you'll see a QR code in the terminal. Scan this QR code with your WhatsApp to link the bot to your WhatsApp account.
 # 6. Dockerizing the Application
 To make deployment easier, let's containerize the application using Docker. Here are the necessary Docker and Docker Compose configurations.
